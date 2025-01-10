@@ -10,7 +10,7 @@ import java.io.FileReader;
 public class SolutionViaJson {
     public static void main(String[] args) {
         // Path to the JSON file
-        String jsonFilePath = "D:\\WorkSpace\\TestAutomation\\AddressDataStructure\\AddressDataStructure\\src\\test\\resources\\CountryData.json"; // Replace with the correct path to your JSON file
+        String jsonFilePath = "src\\test\\resources\\CountryData.json"; // Replace with the correct path to your JSON file
 
         try {
             // Parse JSON file into a JsonObject
